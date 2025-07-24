@@ -1,0 +1,5 @@
+Method: POST
+URL: https://reqres.in/api//users
+Headers: {'Content-Type': 'application/json'}
+Payload: {'name': '', 'job': 'dev'}
+Query Params: None

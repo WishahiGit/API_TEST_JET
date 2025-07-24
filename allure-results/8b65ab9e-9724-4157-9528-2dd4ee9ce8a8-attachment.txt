@@ -1,0 +1,5 @@
+Method: GET
+URL: https://restful-booker.herokuapp.com/users
+Headers: 1
+Payload: None
+Query Params: None

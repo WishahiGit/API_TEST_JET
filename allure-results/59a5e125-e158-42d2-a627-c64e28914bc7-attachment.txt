@@ -1,0 +1,5 @@
+Method: POST
+URL: https://reqres.in/api/users
+Headers: {'Content-Type': 'application/json', 'x-api-key': 'reqres-free-v1'}
+Payload: {'name': 'John Doe', 'job': 'engineer'}
+Query Params: None

@@ -1,0 +1,5 @@
+Method: POST
+URL: https://gorest.co.in/public/v2/users
+Headers: {'Content-Type': 'application/json', 'Accept': 'application/json'}
+Payload: {'name': 'ALICE', 'gender': 'male', 'email': 'ALICE@GMAIL..COM', 'status': 'active'}
+Query Params: None

@@ -1,0 +1,5 @@
+Method: GET
+URL: https://restful-booker.herokuapp.com/users
+Headers: {'Content-Type': 'application/json', 'Cookie': 'token=130a3d4024366f9'}
+Payload: None
+Query Params: None

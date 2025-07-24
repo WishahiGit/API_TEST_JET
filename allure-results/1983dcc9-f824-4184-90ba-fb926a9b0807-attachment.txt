@@ -1,0 +1,5 @@
+Method: POST
+URL: https://restful-booker.herokuapp.com/users
+Headers: {'Content-Type': 'application/json', 'Cookie': 'token=e33a7d319639380'}
+Payload: {'firstname': '', 'lastname': 'dfdfbdfb', 'totalprice': 552, 'depositpaid': False, 'usersdates': {'checkin': '2018-01-01', 'checkout': '2015-01-01'}, 'additionalneeds': 'Breakfast'}
+Query Params: None

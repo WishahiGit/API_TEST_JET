@@ -1,0 +1,5 @@
+Method: DELETE
+URL: https://restful-booker.herokuapp.com/users/2
+Headers: {'Content-Type': 'application/json', 'Accept': 'application/json', 'Cookie': 'token=bc5bfef97ff79a0'}
+Payload: None
+Query Params: None

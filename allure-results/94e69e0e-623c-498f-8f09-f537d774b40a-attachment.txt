@@ -1,0 +1,5 @@
+Method: PUT
+URL: https://reqres.in/api/users/999999999
+Headers: {'Content-Type': 'application/json', 'x-api-key': 'reqres-free-v1'}
+Payload: {'name': 'Only Author', 'job': ''}
+Query Params: None
